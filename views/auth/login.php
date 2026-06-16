@@ -3,7 +3,6 @@
 <div class="auth-container">
     <div class="auth-card">
         <div class="auth-header">
-            <div class="auth-logo">⚡</div>
             <h1>Entrar na EletroTech</h1>
             <p>Acesse sua conta para continuar comprando</p>
         </div>
