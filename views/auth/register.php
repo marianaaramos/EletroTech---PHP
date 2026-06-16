@@ -3,7 +3,6 @@
 <div class="auth-container auth-container-lg">
     <div class="auth-card">
         <div class="auth-header">
-            <div class="auth-logo">📝</div>
             <h1>Criar Conta</h1>
             <p>Cadastre-se e aproveite os melhores preços em eletrônicos</p>
         </div>
